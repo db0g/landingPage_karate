@@ -1,6 +1,6 @@
 # landingPage_karate
 
-![karate_tonfa_debout](C:\Users\Damie\Desktop\_Projects\LandingPage\landingPage_karate\img\karate_tonfa_debout.jpg)
+![karate_tonfa_debout](https://github.com/db0g/landingPage_karate/blob/main/img/karate_tonfa_debout.jpg)
 
 Petit clin d'oeil à une grande partie de ma vie.
 
